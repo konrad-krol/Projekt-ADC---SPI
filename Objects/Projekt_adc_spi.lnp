@@ -1,0 +1,12 @@
+--cpu ARM7TDMI
+".\objects\lpc2300.o"
+".\objects\main_adc.o"
+".\objects\main_eint.o"
+".\objects\main_led.o"
+".\objects\main_timer.o"
+".\objects\main_project.o"
+".\objects\main_spi.o"
+--strict --scatter ".\Objects\Projekt_adc_spi.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\Projekt_adc_spi.map" -o .\Objects\Projekt_adc_spi.axf
