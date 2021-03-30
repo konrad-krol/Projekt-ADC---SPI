@@ -1,0 +1,14 @@
+Dependencies for Project 'Projekt_adc_spi', Target 'Target 1': (DO NOT MODIFY !)
+F (.\LPC2300.s)(0x5F919E31)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\Philips--pd "__UVISION_VERSION SETA 522"--list .\listings\lpc2300.lst --xref -o .\objects\lpc2300.o --depend .\objects\lpc2300.d)
+F (.\main_ADC.c)(0x5FA6D592)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\Philips-D__UVISION_VERSION="522"-o .\objects\main_adc.o --omf_browse .\objects\main_adc.crf --depend .\objects\main_adc.d)
+I (C:\Keil_v5\ARM\Inc\Philips\LPC23xx.h)(0x559D2158)
+F (.\main_EINT.c)(0x5FAE6341)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\Philips-D__UVISION_VERSION="522"-o .\objects\main_eint.o --omf_browse .\objects\main_eint.crf --depend .\objects\main_eint.d)
+I (C:\Keil_v5\ARM\Inc\Philips\LPC23xx.h)(0x559D2158)
+F (.\main_LED.c)(0x5FAE61FD)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\Philips-D__UVISION_VERSION="522"-o .\objects\main_led.o --omf_browse .\objects\main_led.crf --depend .\objects\main_led.d)
+I (C:\Keil_v5\ARM\Inc\Philips\LPC23xx.h)(0x559D2158)
+F (.\main_Timer.c)(0x5FA6CF84)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\Philips-D__UVISION_VERSION="522"-o .\objects\main_timer.o --omf_browse .\objects\main_timer.crf --depend .\objects\main_timer.d)
+I (C:\Keil_v5\ARM\Inc\Philips\LPC23xx.H)(0x559D2158)
+F (.\main_Project.c)(0x5FAEA394)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\Philips-D__UVISION_VERSION="522"-o .\objects\main_project.o --omf_browse .\objects\main_project.crf --depend .\objects\main_project.d)
+I (C:\Keil_v5\ARM\Inc\Philips\LPC23xx.h)(0x559D2158)
+F (.\main_SPI.c)(0x5FAE5457)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\Philips-D__UVISION_VERSION="522"-o .\objects\main_spi.o --omf_browse .\objects\main_spi.crf --depend .\objects\main_spi.d)
+I (C:\Keil_v5\ARM\Inc\Philips\LPC23xx.h)(0x559D2158)
